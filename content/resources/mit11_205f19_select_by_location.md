@@ -2,8 +2,12 @@
 content_type: resource
 description: A brief video-only clip demonstrating how to select by location in ArcGIS
   software.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-205-introduction-to-spatial-analysis-fall-2019/259446e62e862daf5666626910138845_MIT11_205F19_select_by_location.mp4
+file: /media/courses/11-205-introduction-to-spatial-analysis-fall-2019/259446e62e862daf5666626910138845_MIT11_205F19_select_by_location.mp4
 file_type: video/mp4
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Instructional Videos
+parent_type: CourseSection
 resourcetype: Other
 title: Select by Location
 uid: 259446e6-2e86-2daf-5666-626910138845

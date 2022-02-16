@@ -2,8 +2,12 @@
 content_type: resource
 description: A brief video-only clip demonstrating how to create Thiessen polygons
   in ArcGIS software.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-205-introduction-to-spatial-analysis-fall-2019/d69842989b83e0bc3e84bd6592c5bed1_MIT11_205F19_thiessen_polygons.mp4
+file: /media/courses/11-205-introduction-to-spatial-analysis-fall-2019/d69842989b83e0bc3e84bd6592c5bed1_MIT11_205F19_thiessen_polygons.mp4
 file_type: video/mp4
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Instructional Videos
+parent_type: CourseSection
 resourcetype: Other
 title: Thiessen Polygons
 uid: d6984298-9b83-e0bc-3e84-bd6592c5bed1

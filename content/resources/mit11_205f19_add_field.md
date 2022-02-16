@@ -2,8 +2,12 @@
 content_type: resource
 description: A brief video-only clip demonstrating the "add field" operation in ArcGIS
   software.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-205-introduction-to-spatial-analysis-fall-2019/ee948b884be11f99004660b91a37aea1_MIT11_205F19_add_field.mp4
+file: /media/courses/11-205-introduction-to-spatial-analysis-fall-2019/ee948b884be11f99004660b91a37aea1_MIT11_205F19_add_field.mp4
 file_type: video/mp4
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Instructional Videos
+parent_type: CourseSection
 resourcetype: Other
 title: Add Field and Field Calculator
 uid: ee948b88-4be1-1f99-0046-60b91a37aea1

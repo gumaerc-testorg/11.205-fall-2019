@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Instructional Videos
 uid: 9e0b03e1-6583-a583-6d8f-3732072425cc
 ---
