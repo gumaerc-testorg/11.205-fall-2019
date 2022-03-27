@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Instructional Videos
 parent_type: CourseSection
+parent_uid: 9e0b03e1-6583-a583-6d8f-3732072425cc
 resourcetype: Other
 title: Normalize
 uid: 875b14ad-05db-560a-087a-96a0770b4f6e
