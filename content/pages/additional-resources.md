@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of links that students in 11.205 Introduction
+  to Spatial Analysis will find useful.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources

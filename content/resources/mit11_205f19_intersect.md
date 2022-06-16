@@ -2,7 +2,7 @@
 content_type: resource
 description: A brief video-only clip demonstrating the "intersect" operation in ArcGIS
   software.
-file: /media/courses/11-205-introduction-to-spatial-analysis-fall-2019/0bf76661f55be42df635b2951cf9d865_MIT11_205F19_intersect.mp4
+file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/0bf76661f55be42df635b2951cf9d865_MIT11_205F19_intersect.mp4
 file_type: video/mp4
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Other
 title: Intersect
 uid: 0bf76661-f55b-e42d-f635-b2951cf9d865
 ---
+A brief video-only clip demonstrating the "intersect" operation in ArcGIS software.
+

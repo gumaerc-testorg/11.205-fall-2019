@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Readings
 uid: 889e19d4-1934-1e45-05fb-4053a231c40b
 ---
 
- For full bibliographic information, see the [Bibliography]({{< baseurl >}}/pages/readings/bibliography) page.
+ For full bibliographic information, see the {{% resource_link a46d7b1f-070d-b6d2-7ae0-ebb337da58bf "Bibliography" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
