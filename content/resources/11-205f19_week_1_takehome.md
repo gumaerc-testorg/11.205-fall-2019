@@ -5,6 +5,7 @@ file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/834b0ed3e730fbf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 11.205 Introduction to Spatial Analysis take-home exercise for week 1
 uid: 834b0ed3-e730-fbf6-8dc8-f45e0d0b5a2e
 ---
 The take-home exercise for week 1 in 11.205 Introduction to Spatial Analysis.
-

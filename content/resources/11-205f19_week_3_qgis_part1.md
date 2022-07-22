@@ -6,6 +6,7 @@ file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/7968e8a07f287be
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11.205 Introduction to Spatial Analysis QGIS exercise for week 3 - part 1
 uid: 7968e8a0-7f28-7be3-15bb-69f433743ab9
 ---
 The first part of the in-class QGIS exercise for week 3 in 11.205 Introduction to Spatial Analysis.
-

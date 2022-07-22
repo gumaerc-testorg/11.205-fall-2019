@@ -6,6 +6,7 @@ file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/d46e7371f24ea98
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Week 0 QGIS Exercise
 uid: d46e7371-f24e-a988-00a7-a5fa77587757
 ---
 The in-class assignment for week 0 in 11.205 Introduction to Spatial Analysis.
-

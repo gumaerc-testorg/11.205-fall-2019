@@ -6,6 +6,7 @@ file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/ad8aeb9dfde0e5e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 11.205 Introduction to Spatial Analysis ArcGIS exercise for week 3 - part
 uid: ad8aeb9d-fde0-e5e7-07a0-7e5d9bfbd885
 ---
 The first part of the in-class ArcGIS exercise for week 3 in 11.205 Introduction to Spatial Analysis.
-
