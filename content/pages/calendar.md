@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: A week-by-week listing of lecture topics, readings, and assignments for
+  11.205
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: cab2247b-2819-58e1-d49c-c13a9ec4d062
 ---
