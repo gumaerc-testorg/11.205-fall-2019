@@ -2,20 +2,19 @@
 content_type: page
 description: This section contains a list of links that students in 11.205 Introduction
   to Spatial Analysis will find useful.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Additional Resources
 uid: a58501a8-a42e-2500-001b-4d6c54936a1b
 ---
-
-Additional Resources:
----------------------
+## Additional Resources:
 
 [Cambridge CityViewer](https://www.cambridgema.gov/GIS/interactivemaps/Cambridgecityviewer.aspx)
 
 [Census Data Visualization Gallery](https://www.census.gov/dataviz/)
 
-[Community Data Portal](http://prattcenter.net/neighborhood-data-portal-0), Pratt Center for Community Development
+[Community Data Portal](https://prattcenter.net/resources/neighborhood_data_portal), Pratt Center for Community Development
 
 [DUSPviz – Intro to HTML and CSS](http://duspviz.mit.edu/web-map-workshop/code-your-first-website/)
 
