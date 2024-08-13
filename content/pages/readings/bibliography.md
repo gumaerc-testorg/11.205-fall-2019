@@ -31,7 +31,7 @@ Branigan, Tania. [“China Census Could Be First to Record True Population.”](
 
 Bui, Quoctrung, Matt A.V. Chaban, and Jeremy White. [“40 Percent of the Buildings in Manhattan Could Not Be Built Today.”](https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html) *New York Times*, May 20, 2016. 
 
-Carr, Margaret H., and Paul Zwick. ["Using GIS Suitability Analysis to Identify Potential Future Land Use Conflicts in North Central Florida" (PDF)](http://ratt.ced.berkeley.edu/readings/GIS_readings/Carr_Zwick_2005.pdf). *Journal of Conservation Planning* 1 (2005): 89–105.
+Carr, Margaret H., and Paul Zwick. "Using GIS Suitability Analysis to Identify Potential Future Land Use Conflicts in North Central Florida" (PDF). *Journal of Conservation Planning* 1 (2005): 89–105.
 
 Collins, Michael G., Frederick Steiner, and Michael J. Rushman. [“Land-Use Suitability Analysis in the United States: Historical Development and Promising Technological Achievements.”](https://pubmed.ncbi.nlm.nih.gov/11568842/) *Environmental Management* 8:5 (2001): 611–621.
 
@@ -73,7 +73,7 @@ Marshall, Aarian. 2014. [“Google and Microsoft are Putting Rio’s Favelas on 
 
 Monmonier, Mark. *How to Lie with Maps*, Second Edition. University of Chicago Press (1996). ISBN: 9780226534213.
 
-Salm, Jon. [“Visualizing NYC’s MapPLUTO Database.”](https://en.rockcontent.com/blog/visualizing-nycs-mappluto-database/) Scribble, August 12, 2013.
+Salm, Jon. “Visualizing NYC’s MapPLUTO Database.” Scribble, August 12, 2013.
 
 Schlossberg, Marc. [“GIS, the US Census and Neighbourhood Scale Analysis.”](https://www.tandfonline.com/doi/pdf/10.1080/0269745032000168269) *Planning, Practice & Research* 18:2–3 (May–August 2003): 213–217.
 

@@ -14,7 +14,7 @@ uid: a58501a8-a42e-2500-001b-4d6c54936a1b
 
 [Census Data Visualization Gallery](https://www.census.gov/dataviz/)
 
-[Community Data Portal](https://prattcenter.net/resources/neighborhood_data_portal), Pratt Center for Community Development
+[Community Data Portal](https://mail.prattcenter.net/neighborhood-data-portal), Pratt Center for Community Development
 
 [DUSPviz – Intro to HTML and CSS](http://duspviz.mit.edu/web-map-workshop/code-your-first-website/)
 
