@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The take-home exercise for week 2 in 11.205 Introduction to Spatial Analysis.
-file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/7a1d3ffe9bb2661f5c095c74ab13018a_11.205f19_week_2_takehome.pdf
+file: /ol-ocw-studio-app/courses/11-205-introduction-to-spatial-analysis-fall-2019/7a1d3ffe9bb2661f5c095c74ab13018a_11.205f19_week_2_takehome.pdf
 file_size: 118478
 file_type: application/pdf
 learning_resource_types:

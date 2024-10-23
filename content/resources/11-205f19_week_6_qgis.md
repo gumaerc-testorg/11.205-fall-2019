@@ -2,7 +2,7 @@
 content_type: resource
 description: The in-class QGIS exercise for week 6 in 11.205 Introduction to Spatial
   Analysis.
-file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/44f76e51782e0ac22798b792acf3c708_11.205f19_week_6_qgis.pdf
+file: /ol-ocw-studio-app/courses/11-205-introduction-to-spatial-analysis-fall-2019/44f76e51782e0ac22798b792acf3c708_11.205f19_week_6_qgis.pdf
 file_size: 2030623
 file_type: application/pdf
 learning_resource_types:
