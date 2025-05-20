@@ -2,7 +2,7 @@
 content_type: resource
 description: A brief video-only clip demonstrating the "add field" operation in ArcGIS
   software.
-file: /ol-ocw-studio-app/courses/11-205-introduction-to-spatial-analysis-fall-2019/ee948b884be11f99004660b91a37aea1_MIT11_205F19_add_field.mp4
+file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/ee948b884be11f99004660b91a37aea1_MIT11_205F19_add_field.mp4
 file_size: 1300089
 file_type: video/mp4
 learning_resource_types: []

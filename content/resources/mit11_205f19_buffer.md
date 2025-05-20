@@ -2,7 +2,7 @@
 content_type: resource
 description: A brief video-only clip demonstrating the "buffer" operation in ArcGIS
   software.
-file: /ol-ocw-studio-app/courses/11-205-introduction-to-spatial-analysis-fall-2019/6d5ffbbc82de405708a26ee679a360ca_MIT11_205F19_buffer.mp4
+file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/6d5ffbbc82de405708a26ee679a360ca_MIT11_205F19_buffer.mp4
 file_size: 4298674
 file_type: video/mp4
 learning_resource_types: []
