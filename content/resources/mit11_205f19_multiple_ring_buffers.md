@@ -2,7 +2,7 @@
 content_type: resource
 description: A brief video-only clip demonstrating how to create multiple ring buffers
   in ArcGIS software.
-file: /courses/11-205-introduction-to-spatial-analysis-fall-2019/c452046b5d62bb3357294acf8a8e13a2_MIT11_205F19_multiple_ring_buffers.mp4
+file: /ol-ocw-studio-app/courses/11-205-introduction-to-spatial-analysis-fall-2019/c452046b5d62bb3357294acf8a8e13a2_MIT11_205F19_multiple_ring_buffers.mp4
 file_size: 402832
 file_type: video/mp4
 learning_resource_types: []
