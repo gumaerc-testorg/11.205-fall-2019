@@ -23,11 +23,11 @@ Geographic Information Systems (GIS) are tools for managing data that represent 
 
 ## Learning through Practice
 
-The class will focus on teaching through practical example. All the course exercises will focus on real-world problems confronted by the [Bronx River Alliance](http://bronxriver.org/), an advocacy group for the Bronx River. Exercises will focus on the Bronx River Alliance’s real-world needs, in order to give students a better understanding of how GIS is applied to planning situations.
+The class will focus on teaching through practical example. All the course exercises will focus on real-world problems confronted by the {{% resource_link "9aedbf05-a7c7-47f5-b225-fd78a4ea7c3b" "Bronx River Alliance" %}}, an advocacy group for the Bronx River. Exercises will focus on the Bronx River Alliance’s real-world needs, in order to give students a better understanding of how GIS is applied to planning situations.
 
 ## Relationship between This Course and Its Sequel
 
-*11.205 Introduction to Spatial Analysis* (this course) and *11.520 GIS Workshop* are two modular courses that make up the Introduction to GIS series. *11.205 Introduction to Spatial Analysis* is required by the [Master in City Planning](https://dusp.mit.edu/masters#master-in-city-planning-(mcp)) degree, but students who have a previous background in GIS can test out of this course. *11.520 GIS Workshop* focuses on developing a research project using GIS as well as introduction to some advanced topics in data collection and web-mapping. Working on your own GIS project is the best way to learn GIS as it teaches you to apply the concepts you learn beyond the step-by-step tutorial you will learn in class. Students of all GIS backgrounds are welcome to take the GIS Workshop course. Experienced students may be interested in taking the GIS Workshop course, in order to test ideas for thesis or investigate projects that use spatial analysis. Taken together, Introduction to Spatial Analysis and GIS Workshop Course give you a complete set of skills needed to start your own GIS project. 
+*11.205 Introduction to Spatial Analysis* (this course) and *11.520 GIS Workshop* are two modular courses that make up the Introduction to GIS series. *11.205 Introduction to Spatial Analysis* is required by the {{% resource_link "e68ad4a3-9b7e-4de8-8143-6e00c8057b27" "Master in City Planning" %}} degree, but students who have a previous background in GIS can test out of this course. *11.520 GIS Workshop* focuses on developing a research project using GIS as well as introduction to some advanced topics in data collection and web-mapping. Working on your own GIS project is the best way to learn GIS as it teaches you to apply the concepts you learn beyond the step-by-step tutorial you will learn in class. Students of all GIS backgrounds are welcome to take the GIS Workshop course. Experienced students may be interested in taking the GIS Workshop course, in order to test ideas for thesis or investigate projects that use spatial analysis. Taken together, Introduction to Spatial Analysis and GIS Workshop Course give you a complete set of skills needed to start your own GIS project. 
 
 ## Course Objectives
 
@@ -125,12 +125,12 @@ Located in Rotch Library, this is a great resource for GIS data and technical qu
 
 ### The Documentation
 
-It's not a bad idea to read the manual! Both the [ArcGIS documentation](https://desktop.arcgis.com/en/documentation/) and the [QGIS documentation](https://docs.qgis.org/3.4/en/docs/) are available online.
+It's not a bad idea to read the manual! Both the {{% resource_link "20d06e01-98bb-4b0e-88b1-9dd2f3912bcf" "ArcGIS documentation" %}} and the {{% resource_link "f01d7d71-d0f3-45ff-9678-9246573687da" "QGIS documentation" %}} are available online.
 
 ### Stack Overflow
 
-A well-known, community-driven, tech help forum, [Stack Overflow](https://stackoverflow.com/questions) has become the go-to venue for tech help. It also has a really great [GIS help forum](https://gis.stackexchange.com/)!
+A well-known, community-driven, tech help forum, {{% resource_link "4ef89702-c912-44b2-9fbb-7243f774babc" "Stack Overflow" %}} has become the go-to venue for tech help. It also has a really great {{% resource_link "f81f06d7-e313-49c0-a0a0-c3ea496b368b" "GIS help forum" %}}!
 
 ### ESRI GeoNet and User Forums
 
-The [old ESRI user forums and the new GeoNet set](https://geonet.esri.com) are great resources for technical GIS software questions.
+The {{% resource_link "56376219-3922-4cf2-954a-f75963122425" "old ESRI user forums and the new GeoNet set" %}} are great resources for technical GIS software questions.
